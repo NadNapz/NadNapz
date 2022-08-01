@@ -5,7 +5,7 @@
   I love learning and trying out new things! 
   I want to learn as much as I can and contribute to many projects. 
   
-  Feel free to tact me anytime at nadnapz@gmail.com
+  Feel free to contact me anytime at nadnapz@gmail.com
   
   Thank you!
 
