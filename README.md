@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @NadNapz
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node/ExpressJS and wanting contribute on many projects
-- 💞️ I’m looking to collaborate on what gives me an opportunity to learn!
-- 📫 How to reach me: Feel free to email me anytime at nadnapz@gmail.com
-- 😀 Thank you!
+## Welcome to my GitHub page!
 
-<!---
-NadNapz/NadNapz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me:
+- My name is Justin. I love technology and have been programming for quite some time now!
+  I love learning and trying out new things! I want to learn as much as I can and contribute 
+  to many projects. 
+  
+  Feel free to tact me anytime at nadnapz@gmail.com
+  
+  Thank you!
+
